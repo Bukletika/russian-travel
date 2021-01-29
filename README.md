@@ -1,5 +1,8 @@
 # Проект 3: Путешествие по России
 
+## Ссылка на проект:
+[https://bukletika.github.io/russian-travel/index.html](https://bukletika.github.io/russian-travel/index.html "Ссылка на проект") 
+
 ### Обзор
 * Интро
 * Figma
