@@ -1,0 +1,13 @@
+.header__logo {
+  width: auto; /* В случае необходимости добавления логотипа большей длины, высота header не изменится */
+  height: 52px;
+  display: block;
+}
+
+
+
+@media screen and (max-width: 320px) {
+  .header__logo {
+    height: 42px;
+  }
+}
