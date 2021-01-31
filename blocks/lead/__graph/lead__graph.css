@@ -1,0 +1,8 @@
+.lead__graph {
+  grid-column: 1;
+  grid-row: 1;
+  align-self: center;
+  max-width: 96%;
+  padding-left: 2.3%;
+  padding-bottom: 17%;
+}
