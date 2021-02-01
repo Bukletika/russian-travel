@@ -1,25 +1,22 @@
-.lead__container {
-  box-sizing: border-box;
-  padding: 0 48px;
+.places__container {
+  max-width: 984px;
 }
 
 @media screen and (max-width: 1024px) {
-  .lead__container {
+  .places__container {
+    max-width: 1024px;
     padding: 0 48px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .lead__container  {
+  .places__container {
     padding: 0 24px;
   }
 }
 
 @media screen and (max-width: 425px) {
-  .lead__container {
-    padding: 0 16px;
+  .places__container {
+    padding: 0;
   }
 }
-
-
-
