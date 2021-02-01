@@ -12,7 +12,7 @@
 @media screen and (max-width: 1024px) {
   .place {
     gap: 48px 32px;
-    grid-template-columns: minmax(340px,460px) minmax(352px, 484px);
+    grid-template-columns: minmax(340px,440px) minmax(352px, 456px);
   }
 }
 
