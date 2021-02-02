@@ -1,22 +1,9 @@
 .cover__content {
-  position: absolute;
-  top: 33.1%;
   max-width: 560px;
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-@media only screen and (max-width: 1024px) {
-  .cover__content {
-    top: 30.3%;
-  }
-}
-
-@media only screen and (max-width: 768px) {
-  .cover__content {
-    top: 24%;
-  }
+  z-index: 1;
 }
 
 @media only screen and (max-width: 700px) {
@@ -28,6 +15,5 @@
 @media only screen and (max-width: 320px) {
   .cover__content {
     max-width: 288px;
-    top: 16.5%;
   }
 }
