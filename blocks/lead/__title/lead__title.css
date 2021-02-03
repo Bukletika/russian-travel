@@ -8,6 +8,7 @@
   margin: 0 auto 32px;
 }
 
+/* Ответ на первый скриншот. Оставил фикс размера шрифта для браузеров на ОС Windows. На MacOS проблема не наблюдалась */
 @media screen and (min-width: 769px) and (max-width: 820px ) {
   .lead__title {
     font-size: 75px;
